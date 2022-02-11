@@ -8,3 +8,6 @@ Instructions:
 
 
 One can try to increase the number of epoch
+
+
+=> fmnist_5_epoch.pth file contains 5 epochs trained weights.
